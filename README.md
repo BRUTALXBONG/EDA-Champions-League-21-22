@@ -23,7 +23,13 @@ Uploaded the csv datsets and checked for missing values, outliers, or inconsiste
        Porto, Dynamo Kyiv, Barcelona, Milan, Malmö, Beşiktaş
     -  most players from which club - Chelsea
     -  total goals scored  by headers - 60
-    -  top players who scored max goals in the tournament where I found Benzema, Lewandowski and Haller are the top players with maximum number of goals. Where Karim Benzema scored 15 goals by just playing 12 matches in all total thus making him the top goalscorer of the tournament.       
+    -  top players who scored max goals in the tournament where I found Benzema, Lewandowski and Haller are the top players with maximum number of goals. Where __Karim Benzema__ scored 15 goals and 3 goals by header by just playing 12 matches in all total thus making him the top goalscorer of the tournament.
+   ![Karim_Benzema_Real_Madrid_2021-22](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/acb57a1c-abe5-4ddc-b8b4-f92053d7308d)
+    - next i found the Portuguese RB __João Cancelo__ had scored 2 goals in the tournament as a defender which is quite impressive.
+      ![FPGg_ifXIAs4xRp](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/1e78c80d-87d9-488f-ac5e-f91036d3c45b)
+    -   
+ 
+
   
 
 
