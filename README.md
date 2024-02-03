@@ -29,10 +29,16 @@ Uploaded the csv datsets and checked for missing values, outliers, or inconsiste
     - next i found the Portuguese RB __João Cancelo__ had scored 2 goals in the tournament as a defender which is quite impressive. <p align="center">
   <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/1e78c80d-87d9-488f-ac5e-f91036d3c45b.FPGg_ifXIAs4xRp.jpg"
  width="300">
-    - 
-    - hdgh
-
-    
+    - goals scored from inside area of the box is around 10% <p align="center">
+  <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/d08fb9ca-aee0-4d29-90b1-1f11e405aeb1"
+ width="300">
+    - next created another bar graph showing the Top 10 Clubs with most goals where the club Bayern Munich scored maximum number of goals in the tournament (31 goals) <p align="center">
+  <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/b27c5636-9e55-48e1-93f9-f8bd95a86e90"
+ width="300">
+* Next using the "[goalkeeping.csv](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/blob/main/goalkeeping.csv)" dataset I found out some of the  basic insights like
+      - 
+ 
+      
 
     
 
