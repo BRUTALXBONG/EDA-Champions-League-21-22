@@ -43,12 +43,18 @@ Uploaded the csv datsets and checked for missing values, outliers, or inconsiste
   <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/d0b044cb-2fc8-406b-98a9-54b64bb6be08"
  width="300">
  * After this using the "[attacking.csv](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/blob/main/attacking.csv)" dataset I found out some of the basic insights like
-    - top players with most assists - Bruno Fernandes, Vinícius Júnior, Sané etc. while Bruno Fernandes made the most number of assists (7 assists) in the entire tournament just by playing 7 matches. <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/2a5c9af2-9642-41fe-b369-a91c39ef5130"
+    - top players with most assists - Bruno Fernandes, Vinícius Júnior, Sané etc. while _Bruno Fernandes_ made the most number of assists (7 assists) in the entire tournament just by playing 7 matches. <p align="center">
+  <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/2a5c9af2-9642-41fe-b369-a91c39ef5130"
  width="300">
-    - ![bayern](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/ca535434-b53e-457e-8ce5-2481526200d1)
+    - top clubs with most assists - _Bayern Munich_, _Liverpool_, _Man City_ etc.
+    - total assists in the tournament - __281__
+    - next found out Vinícius Júnior of Real Madrid	who play as a Forward (RW) made	6 assists in the tournament.
+    - top defender with most assists - _Alexander-Arnold_ of Liverpool	(4 assists) which is quite impressive. <p align="center">
+  <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/1c13928c-0e18-4ac6-8f0a-c06920344abc"
+ width="300">
+ * 
 
-    - 
-  ![3796983-77229588-2560-1440](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/2a5c9af2-9642-41fe-b369-a91c39ef5130)
+
 
 
   
