@@ -1,5 +1,5 @@
 # EDA-Champions-League 21-22
-![UEFA](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/8adb48dd-8a90-41cd-889c-0ba915ab6bd3)
+![skysports-reak-real-madrid_5787448](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/ce393b67-5628-4b62-8064-b6b4cdc556c1)
 ## INTRODUCTION
 The UEFA Champions League (UCL) is an annual club football⚽️ competition organised by the Union of European Football Associations (UEFA) and contested by top-division European clubs, deciding the competition winners through a round robin group stage to qualify for a double-legged knockout format, and a single leg final. It is one of the most prestigious football tournaments in the world and the most prestigious club competition in European football, played by the national league champions (and, for some nations, one or more runners-up) of their national associations.
 
@@ -52,7 +52,6 @@ Uploaded the csv datsets and checked for missing values, outliers, or inconsiste
     - top defender with most assists - _Alexander-Arnold_ of Liverpool	(4 assists) which is quite impressive. <p align="center">
   <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/1c13928c-0e18-4ac6-8f0a-c06920344abc"
  width="300">
- * 
 
 
 
@@ -60,16 +59,3 @@ Uploaded the csv datsets and checked for missing values, outliers, or inconsiste
   
  
 
-
-    
-
- 
-
-  
-
-
-
-
-
-
-![skysports-reak-real-madrid_5787448](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/ce393b67-5628-4b62-8064-b6b4cdc556c1)
