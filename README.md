@@ -1,5 +1,8 @@
 # EDA-Champions-League 21-22
-![skysports-reak-real-madrid_5787448](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/ce393b67-5628-4b62-8064-b6b4cdc556c1)
+<p align="center">
+  <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/2340bc0d-5a5a-4806-ba38-e4a9ed164599"
+ width="750">
+    
 ## INTRODUCTION
 The UEFA Champions League (UCL) is an annual club football⚽️ competition organised by the Union of European Football Associations (UEFA) and contested by top-division European clubs, deciding the competition winners through a round robin group stage to qualify for a double-legged knockout format, and a single leg final. It is one of the most prestigious football tournaments in the world and the most prestigious club competition in European football, played by the national league champions (and, for some nations, one or more runners-up) of their national associations.
 
