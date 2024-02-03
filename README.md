@@ -12,9 +12,10 @@ Matplotlib is used for the creation of diverse visualizations, while Seaborn, bu
 ## Data Importing and Cleaning
 Uploaded the csv datsets and checked for missing values, outliers, or inconsistencies in the data and addressed them as needed and ensured that data types are appropriate for analysis.
 ## Key Findings and Insights
-* At first using the "goals" datasets I found out some of the  basic insights like
+* At first using the "https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/blob/main/goals.csv" dataset I found out some of the  basic insights like
     - total goals scored in the tournament - 370
-    - total penalties scored in the tournament
+    - total penalties scored in the tournament - 36
+    - 
 
 
 
