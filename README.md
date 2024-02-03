@@ -15,7 +15,17 @@ Uploaded the csv datsets and checked for missing values, outliers, or inconsiste
 * At first using the "[goals.csv](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/blob/main/goals.csv)" dataset I found out some of the  basic insights like
     - total goals scored in the tournament - 370
     - total penalties scored in the tournament - 36
-    - 
+    - the clubs that participated(qualified) in the tournament - Real Madrid, Bayern, Ajax, Liverpool, Leipzig,
+       Man. City, Paris, Benfica, Man. United, Villarreal,
+       Chelsea, Sporting CP, Atlético, Dortmund, Salzburg,
+       Club Brugge, Atalanta, LOSC, Inter, Juventus, Sevilla,
+       Shakhtar Donetsk, Zenit, Young Boys, Wolfsburg, Sheriff,
+       Porto, Dynamo Kyiv, Barcelona, Milan, Malmö, Beşiktaş
+    -  most players from which club - Chelsea
+    -  total goals scored  by headers - 60
+    -  top players who scored max goals in the tournament where I found Benzema, Lewandowski and Haller are the top players with maximum number of goals. Where Karim Benzema scored 15 goals by just playing 12 matches in all total thus making him the top goalscorer of the tournament.       
+  
+
 
 
 
