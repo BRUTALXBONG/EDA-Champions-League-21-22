@@ -69,10 +69,14 @@ Uploaded the csv datsets and checked for missing values, outliers, or inconsiste
  width="300">
  * Next Using the "[disciplinary.csv](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/blob/main/disciplinary.csv)" dataset I found out
      - percentage of red and yellow cards in a tournament, RED CARD-(4.83%) & YELLOW CARD_(95.16%)
+     - Ajax as a team has the maximum number of fouls committed in the season.
      - player with most yellow card and fouls committed - _Balanta_ of Club Brugge had 4 yellow cards in the tournament.
      - player with most red card - _Felipe_ of Atlético had 2 red cards and 3 yellow cards in the tournament. <p align="center">
-  <img src=""
+  <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/c1c94934-463d-40f6-a525-1250946e994a"
  width="300">
+ ## Conclusion
+In conclusion, after looking at the football analysis, we can see that the tournament had a lot of action with a high number of red and yellow cards. The players showed intense competition on the field. Goals were scored, and teams worked hard to win matches. It was an exciting and competitive tournament with both thrilling moments and challenges for the teams. The analysis provides a glimpse into the dynamic and passionate nature of football, making it an enjoyable event for fans and players alike.
+
    
 
 
