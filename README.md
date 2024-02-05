@@ -55,7 +55,25 @@ Uploaded the csv datsets and checked for missing values, outliers, or inconsiste
     - top defender with most assists - _Alexander-Arnold_ of Liverpool	(4 assists) which is quite impressive. <p align="center">
   <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/1c13928c-0e18-4ac6-8f0a-c06920344abc"
  width="300">
-
+ * Next using the "[distribution.csv](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/blob/main/distribution.csv)" dataset I found out some of the basic insights like
+     - One of the Zenit	Midfielder _Erokhin_ has the maximum pass accuracy of	98.0.
+     - also when comparing the stats of the players with top assists we can see _Vinícius Júnior_ of Real Madrid with 6 assists has better cross accuracy(31) and pass accuracy(83.1) than         _Bruno Fernandes_ of Man. United.
+     - players with the best cross and pass accuracy among which _Thiago Silva_ has a pass accuracy of 93.1 and cross accuracy of 100. <p align="center">
+  <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/6a663c14-53b4-4ba0-ace9-9ced8630135f"
+ width="300">
+ * Using the "[defensive.csv](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/blob/main/defensive.csv)" dataset I found out
+     - _Casemiro_	the Real Madrid	Midfielder(CDM) has the maximum balls recovered (76) and out of 31 tackles he won 13 tackles and lost	18 tackles and had attempted 19 clearance.
+     - Total Tackles won in the tounament is around 43% and Tackles lost is around 56%
+     - Among the defenders _Éder Militão_	of Real Madrid and _Reinildo_ of Atlético are on the top of the table with 76 balls recovered and 6 tackles won while Eder Militao lost 13 tackles out of 19 and Renildo lost 7 tackles out of 13. <p align="center">
+  <img src="https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/assets/125906962/da6d7c8b-65dc-4f02-930a-56b2874cd050"
+ width="300">
+ * Next Using the "[disciplinary.csv](https://github.com/BRUTALXBONG/EDA-Champions-League-21-22/blob/main/disciplinary.csv)" dataset I found out
+     - percentage of red and yellow cards in a tournament, RED CARD-(4.83%) & YELLOW CARD_(95.16%)
+     - player with most yellow card and fouls committed - _Balanta_ of Club Brugge had 4 yellow cards in the tournament.
+     - player with most red card - _Felipe_ of Atlético had 2 red cards and 3 yellow cards in the tournament. <p align="center">
+  <img src=""
+ width="300">
+   
 
 
 
