@@ -77,6 +77,7 @@ Uploaded the csv datsets and checked for missing values, outliers, or inconsiste
  ## Conclusion
 In conclusion, after looking at the football analysis, we can see that the tournament had a lot of action with a high number of red and yellow cards. The players showed intense competition on the field. Goals were scored, and teams worked hard to win matches. It was an exciting and competitive tournament with both thrilling moments and challenges for the teams. The analysis provides a glimpse into the dynamic and passionate nature of football, making it an enjoyable event for fans and players alike.
 
+
    
 
 
